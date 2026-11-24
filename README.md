@@ -22,7 +22,5 @@ gcc -std=c99 -Wall -Wextra -o estoque estoque.c
 - `estoque.txt`: relatório (gerado ao exportar)
 
 ## Equipe
-- Nome 1
-- Nome 2
-- Nome 3
-- Nome 4
+- Henrique Terra de Araujo
+
