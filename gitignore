@@ -1,0 +1,8 @@
+# Executáveis e objetos
+estoque
+estoque.exe
+*.o
+
+# Arquivos gerados pelo programa
+estoque.dat
+estoque.txt
